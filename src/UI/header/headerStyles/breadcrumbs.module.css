@@ -1,0 +1,12 @@
+.last__breadcrumb_dis {
+    pointer-events: none;
+    font-size: .75rem;
+    color: #e3d4d4;
+    text-decoration: none;
+}
+
+.breadcrumbs__item_last {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}

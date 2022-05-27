@@ -1,0 +1,437 @@
+[
+    { 
+        "title": "Коллекции",
+        "path": "/catalog", 
+        "id": 1,
+        "item":[
+            {
+                "id": 1,
+                "title": "Варежки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                "title":"Горловина и шарфы",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                "title":"Носки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                "title": "Перчатки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }    
+        ]
+
+    },
+
+    {
+         "title": "Верхняя одежда",
+         "path": "/catalog",  
+         "id": 2,
+         "item": [
+            {
+                "id": 1,
+                "title": "Варежки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                "title":"Горловина и шарфы",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                "title": "Перчатки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+         ] 
+    },
+
+    {
+         "title": "Игра слоями", 
+         "id": 3,
+         "path": "/catalog", 
+         "item": [
+            {
+                "id": 1,
+                "title": "Варежки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                "title":"Горловина и шарфы",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                "title":"Носки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                "title": "Перчатки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+            
+         ] 
+    },
+
+    {
+         "title": "Для прогулки и спорта", 
+         "id": 4,
+         "path": "/catalog", 
+         "item": [
+            {
+                "id": 1,
+                "title": "Варежки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                "title":"Горловина и шарфы",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                "title":"Носки",
+                "description": "Uitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                "title": "Перчатки",
+                "description": "Jtrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            },
+        
+            {
+                "id": 5,
+                "title": "Сумки и рюкзаки",
+                "description": "Qretra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type":[]
+            },
+        
+            {
+                "id": 6,
+                "title": "Солнцезащитные очки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [] 
+            },
+        
+            {
+                "id": 7,
+                "title":"Головные уборы",
+                "description": "VVGHVorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitaeJJLKJLJlra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Шапка-шлем"},
+                    {"id":2, "title": "Шапка-бини"},
+                    {"id":3, "title": "Повязка на голову"},
+                    {"id":4, "title": "Вязаные шапки"},
+                    {"id":5, "title": "Шапки с козырьком"},
+                    {"id":6, "title": "Непромокаемые шапки"},
+                    {"id":7, "title": "Шапка на завязках"},
+                    {"id":8, "title": "Шапка с помпоном"}
+                ]
+            }
+         ] 
+    },
+
+    { 
+        "title": "Летняя одежда", 
+        "id": 5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharethjasdiwq565612ghsadjadslis eros, id lobortis sapien.",
+        "path": "/catalog", 
+        "item": [
+            {
+                "id": 1,
+                "title": "Варежки",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                "title":"Горловина и шарфы",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Перчатки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+        ] 
+    },
+
+    { 
+        "title": "Обувь", 
+        "id": 6,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+        "path": "/catalog", 
+        "item": [
+            {
+                "id": 1,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Варежки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Горловина и шарфы",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Перчатки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+        ] 
+    },
+
+    { 
+        "title": "Аксессуары", 
+        "id": 7,
+        "description": "Km dolor sit a metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+        "path": "/catalog", 
+        "item": [
+            {
+                "id": 1,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Варежки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Горловина и шарфы",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Перчатки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            },
+        
+            {
+                "id": 5,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Сумки и рюкзаки",
+                "type":[]
+            },
+        
+            {
+                "id": 6,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Солнцезащитные очки",
+                "type": [] 
+            },
+        
+            {
+                "id": 7,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Головные уборы",
+                "type": [
+                    {"id":1, "title": "Шапка-шлем"},
+                    {"id":2, "title": "Шапка-бини"},
+                    {"id":3, "title": "Повязка на голову"},
+                    {"id":4, "title": "Вязаные шапки"},
+                    {"id":5, "title": "Шапки с козырьком"},
+                    {"id":6, "title": "Непромокаемые шапки"},
+                    {"id":7, "title": "Шапка на завязках"},
+                    {"id":8, "title": "Шапка с помпоном"}
+                ]
+            }
+        ] 
+    },
+
+    { 
+        "title": "Для новорожденных", 
+        "id": 8,
+        "description": "Joprem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. QuiOPOOPPOPPiam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+        "path": "/catalog", 
+        "item": [
+            {
+                "id": 1,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Варежки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Горловина и шарфы",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Перчатки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+        ] 
+    },
+
+    { 
+        "title": "Распродажа", 
+        "id": 9,
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+        "path": "/catalog", 
+        "sale": true,
+        "item": [
+            {
+                "id": 1,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Варежки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Для новорожденных"}
+                ]
+            },
+        
+            {
+                "id": 2,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Горловина и шарфы",
+                "type": []
+            },
+        
+            {
+                "id": 3,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title":"Носки",
+                "type": []
+            },
+        
+            {
+                "id":4,
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a lacus ultrices mi commodo hendrerit ac id metus. Nunc sollicitudin accumsan ex eget semper. Aenean vel purus leo. Nunc cursus, erat ut porttitor hendrerit, diam urna finibus erat, vel elementum eros velit non odio. Aenean rhoncus neque nisi, blandit viverra metus pharetra vitae. Quisque vitae ipsum diam. Suspendisse pharetra dictum malesuada. Nam a mollis eros, id lobortis sapien.",
+                "title": "Перчатки",
+                "type": [
+                    {"id":1, "title": "Демисезонные"},
+                    {"id":2, "title": "Зимние"}
+                ]
+            }
+        ] 
+    }
+]

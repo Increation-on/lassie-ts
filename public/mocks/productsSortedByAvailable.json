@@ -1,0 +1,524 @@
+[
+    { 
+        "id": 1, 
+        "title": "Шапка-бини для новорожденных Hilal", 
+        "price": 8987, 
+        "img":"/images/products/good-1.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id":1},
+            {"available": true, "num": 80, "id":2},
+            {"available": true, "num": 86, "id":3},
+            {"available": true, "num": 92, "id":4},
+            {"available": true, "num": 98, "id":5}
+        ],
+        "mark": [
+            {"hit": false, "id": 1},
+            {"new": true, "id": 2},
+            {"sale": false, "id": 3}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-1.jpg", "id": 1},
+            {"src": "/images/products/good-1.jpg", "id": 2},
+            {"src": "/images/products/good-1.jpg", "id": 3},
+            {"src": "/images/products/good-1.jpg", "id": 4},
+            {"src": "/images/products/good-1.jpg", "id": 5},
+            {"src": "/images/products/good-1.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"50% Шерсть", "id": 1},
+            {"title":"50% Акрил", "id": 2}
+        ],
+        "code": "518304-8490-036",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное, не давайте носить ее вашему папе, а то она растянется и потеряет вид!"}
+          
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":true,
+        "collection": "Active"
+    },
+    
+    { 
+        "id": 2, 
+        "title": "Зимний комбинезон для новорожденных Grian", 
+        "price": 3299, 
+        "img":"/images/products/good-2.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": false, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": false},
+            {"sale": true}
+        ],
+        "discount": 30,
+        "images": [
+            {"src": "/images/products/good-2.jpg", "id": 1},
+            {"src": "/images/products/good-2.jpg", "id": 2},
+            {"src": "/images/products/good-2.jpg", "id": 3},
+            {"src": "/images/products/good-2.jpg", "id": 4},
+            {"src": "/images/products/good-2.jpg", "id": 5},
+            {"src": "/images/products/good-2.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"10% Вода", "id": 1},
+            {"title":"90% Сова", "id": 2}
+        ],
+        "code": "518304-8490-0236",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное, не давайте носить ее!"}
+        ],
+        "season": "Межсезонные",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Унисекс",
+        "availability":true,
+        "collection": "Active"
+         
+    },
+
+    { 
+        "id": 3, 
+        "title": "Кросовки Reimatec® для детей Wetter", 
+        "price": 3899 , 
+        "img":"/images/products/good-3.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": true},
+            {"sale": false}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-3.jpg", "id": 1},
+            {"src": "/images/products/good-3.jpg", "id": 2},
+            {"src": "/images/products/good-3.jpg", "id": 3},
+            {"src": "/images/products/good-3.jpg", "id": 4},
+            {"src": "/images/products/good-3.jpg", "id": 5},
+            {"src": "/images/products/good-3.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"60% Литий", "id": 1},
+            {"title":"40% Мохер", "id": 2}
+        ],
+        "code": "918304-8590-036",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное - не носить ее!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":true,
+        "collection": "Active" 
+    },
+
+    { 
+        "id": 4, 
+        "title": "Детская зимняя куртка Reimatec® Dinkar", 
+        "price": 849, 
+        "img":"/images/products/good-4.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": false, "num": 74, "id":1},
+            {"available": true, "num": 80, "id":2},
+            {"available": true, "num": 86, "id":3},
+            {"available": false, "num": 92, "id":4},
+            {"available": true, "num": 98, "id":5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": false},
+            {"sale": false}
+        ],
+        "discount": null,   
+        "images": [
+            {"src": "/images/products/good-4.jpg", "id": 2},
+            {"src": "/images/products/good-4.jpg", "id": 3},
+            {"src": "/images/products/good-4.jpg", "id": 1},
+            {"src": "/images/products/good-4.jpg", "id": 4},
+            {"src": "/images/products/good-4.jpg", "id": 5},
+            {"src": "/images/products/good-4.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"80% Цикорий", "id": 1},
+            {"title":"20% Акрил", "id": 2}
+        ],
+        "code": "518404-8490-03886",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное, не давайте eе!"}
+        ],
+        "season": "Межсезонные",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Девочка",
+        "availability":true,
+        "collection": "Active"
+    },
+
+    { 
+        "id": 5, 
+        "title": "Пинетки для новорожденных Neuvo", 
+        "price": 1599 , 
+        "img":"/images/products/good-5.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": true},
+            {"new": false},
+            {"sale": false}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-6.jpg", "id": 1},
+            {"src": "/images/products/good-6.jpg", "id": 2},
+            {"src": "/images/products/good-6.jpg", "id": 3},
+            {"src": "/images/products/good-6.jpg", "id": 4},
+            {"src": "/images/products/good-6.jpg", "id": 5},
+            {"src": "/images/products/good-6.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"50% Шерсть", "id": 1},
+            {"title":"50% Бумага", "id": 2}
+        ],
+        "code": "1118304-8497770-036",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное, не давайте носить ее никому!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":false,
+        "collection": "Active"  
+    },
+
+    { 
+        "id": 6, 
+        "title": "Шапка-бини для новорожденных Hilal", 
+        "price": 2899, 
+        "img":"/images/products/good-1.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": true},
+            {"sale": false}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-1.jpg", "id": 1},
+            {"src": "/images/products/good-1.jpg", "id": 2},
+            {"src": "/images/products/good-1.jpg", "id": 3},
+            {"src": "/images/products/good-1.jpg", "id": 4},
+            {"src": "/images/products/good-1.jpg", "id": 5},
+            {"src": "/images/products/good-1.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"25% Шерсть", "id": 1},
+            {"title":"75% Кварц", "id": 2}
+        ],
+        "code": "13221304-4490-036",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":true,
+        "collection":"Active"
+
+    },
+
+    {
+        "id":7,
+        "title":"Зимний комбинезон для новорожденных Grian",
+        "price": 3299, 
+        "img":"/images/products/good-2.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": false},
+            {"sale": true}
+        ],
+        "discount": 30,
+        "images": [
+            {"src": "/images/products/good-2.jpg", "id": 1},
+            {"src": "/images/products/good-2.jpg", "id": 2},
+            {"src": "/images/products/good-2.jpg", "id": 3},
+            {"src": "/images/products/good-2.jpg", "id": 4},
+            {"src": "/images/products/good-2.jpg", "id": 5},
+            {"src": "/images/products/good-2.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"50% Полипропилен", "id": 1},
+            {"title":"50% Акрил", "id": 2}
+        ],
+        "code": "818334-1490-136432",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Главное - не теряйте вид!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":false,
+        "collection":"Active"
+    },
+
+    { 
+        "id": 8, 
+        "title": "Кросовки Reimatec® для детей Wetter", 
+        "price": 3899 , 
+        "img":"/images/products/good-3.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": true},
+            {"sale": false}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-3.jpg", "id": 1},
+            {"src": "/images/products/good-3.jpg", "id": 2},
+            {"src": "/images/products/good-3.jpg", "id": 3},
+            {"src": "/images/products/good-3.jpg", "id": 4},
+            {"src": "/images/products/good-3.jpg", "id": 5},
+            {"src": "/images/products/good-3.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"50% Цемент", "id": 1},
+            {"title":"50% Момент", "id": 2}
+        ],
+        "code": "1518304-8490-036786123",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "О главном!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":true,
+        "collection": "Active" 
+    },
+
+    { 
+        "id": 9, 
+        "title": "Детская зимняя куртка Reimatec® Dinkar", 
+        "price": 849, 
+        "img":"/images/products/good-4.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": false},
+            {"new": false},
+            {"sale": false}
+        ],
+        "discount": null,
+        "images": [
+            {"src": "/images/products/good-4.jpg", "id": 1},
+            {"src": "/images/products/good-4.jpg", "id": 2},
+            {"src": "/images/products/good-4.jpg", "id": 3},
+            {"src": "/images/products/good-4.jpg", "id": 4},
+            {"src": "/images/products/good-4.jpg", "id": 5},
+            {"src": "/images/products/good-4.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"40% Шерсть", "id": 1},
+            {"title":"60% Пластмасса", "id": 2}
+        ],
+        "code": "7718304-90-0389813",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Вид потеряет она и растянется, не давайте папе вашему носить ее, главное!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":true,
+        "collection": "Active"  
+    },
+
+    { 
+        "id": 10, 
+        "title": "Пинетки для новорожденных Neuvo", 
+        "price": 1599 , 
+        "img":"/images/products/good-5.jpg", 
+        "url":"/product",
+        "sizes": [
+            {"available": true, "num": 74, "id": 1},
+            {"available": true, "num": 80, "id": 2},
+            {"available": true, "num": 86, "id": 3},
+            {"available": true, "num": 92, "id": 4},
+            {"available": true, "num": 98, "id": 5}
+        ],
+        "mark": [
+            {"hit": true},
+            {"new": false},
+            {"sale": false}
+        ],
+        "discount":null,
+        "images": [
+            {"src": "/images/products/good-5.jpg", "id": 1},
+            {"src": "/images/products/good-5.jpg", "id": 2},
+            {"src": "/images/products/good-5.jpg", "id": 3},
+            {"src": "/images/products/good-5.jpg", "id": 4},
+            {"src": "/images/products/good-5.jpg", "id": 5},
+            {"src": "/images/products/good-5.jpg", "id": 6}
+        ],
+        "material":[
+            {"title":"50% Шерсть", "id": 1},
+            {"title":"50% Хлопок", "id": 2}
+        ],
+        "code": "018304-8490-030",
+        "description": [
+            {"main":"Как насчет сна? Эта удобная шапочка идеально подходит для всех маленьких мечтателей и сонных медведей! Благодаря вязке из теплой шерстяной смеси в сочетании с мягкой флисовой подкладкой на внутренней стороне, эта шапочка подходит для ежедневного использования. Сочетание с варежками Nyytti и пинетками Neuvo завершит образ!"},
+            {"thesis": [
+                {"title":"Детская шапочка, теплая шерстяная вязка", "id": 1},
+                {"title":"Мягкая теплая подкладка из флиса", "id": 2},
+                {"title":"Ветронепроницаемые вставки в области ушей", "id": 3},
+                {"title":"Сочетается в варежками “Nyytti” и пинетками “Neuvo”", "id": 4}
+            ]},
+            {"care": "Люк, я твой отец!"}
+        ],
+        "season": "Зима",
+        "color": [
+            {"id": 1, "title": "Зеленый", "available": true, "name": "green"},
+            {"id": 2, "title": "Розовый", "available": true, "name": "pink"}
+        ],
+        "gender": "Мальчик",
+        "availability":false,
+        "collection": "Active"  
+    }
+]
